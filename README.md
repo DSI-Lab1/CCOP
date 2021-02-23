@@ -8,7 +8,7 @@ This repository contains the material of the following work:
 ## Description
 The repository contains the artefacts required to run four MOEAs (csNSGA-II, csOMOPSO, csSMSEMOA, csSPEA2) implemented to solve Combinatorial Causal Optimization Problem (CCOP)  defined in the above-mentioned work, on four real-world benchmarks. The code is based on the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment MOEAs; therefore, beside allowing for replicating the results of the paper, it allows to easily implement new MOEAs exploiting the jMetal facilities. 
 
-## The artefacts include: 
+The artefacts include: 
 - CCOP.jar. The executable JAR file to run the four MOEAs on a benchmark problem given as input. 
 Usage: 
 java -jar CCOP.jar <configuration.txt> 
