@@ -1,6 +1,6 @@
 # To set your configuration, modify this file (characters after '#' are comments)
 
-BaseDir = /Users/robertopietrantuono/Dropbox/Papers/in_preparazione/TEVC-LEARNING/GECCO/ASRS   #Base directory, absolute Path. 
+BaseDir = ./BENCHMARKS/CCOP2-ASRS   #Base directory, absolute Path. 
 Ontology file with causes = OntologySources.txt  		  #Must be located in BaseDir
 Ontology file with effects = OntologyTargets.txt 		  #Must be located in BaseDir
 Input dataset file = ASRS_DBOnline.csv 			          #Input dataset. Must be located in BaseDir. Separator: ",". Spearator between multiple values 
