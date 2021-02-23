@@ -1,12 +1,13 @@
-#Source
+# CCOP Repository
+## Source
 
 The material in this repository stems from the work: 
 "Roberto Pietrantuono, Automated Hypotheses Generation via Combinatorial Causal Optimization, submitted for review to the 2021 IEEE Congress on Evolutionary Computation."
 
-#Description
+## Description
 The repository contains the artefacts required to run four MOEAs (csNSGA-II, csOMOPSO, csSMSEMOA, csSPEA2) implemented to solve Combinatorial Causal Optimization Problem (CCOP)  defined in the above-mentioned work, on four real-world benchmarks. The code is based on the jMetal framework (https://github.com/jMetal), a Java framework to develop and experiment MOEAs; therefore, beside allowing for replicating the results of the paper, it allows to easily implement new MOEAs exploiting the jMetal facilities. 
 
-#The artefacts include: 
+## The artefacts include: 
 - CCOP.jar. The executable JAR file to run the four MOEAs on a benchmark problem given as input. 
 Usage: 
 java -jar CCOP.jar <configuration.txt> 
