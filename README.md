@@ -1,7 +1,8 @@
 # CCOP Repository
 ## Source
 
-The material in this repository stems from the work: 
+This repository contains the material of the following work: 
+
 "Roberto Pietrantuono, Automated Hypotheses Generation via Combinatorial Causal Optimization, submitted for review to the 2021 IEEE Congress on Evolutionary Computation."
 
 ## Description
